@@ -9,7 +9,5 @@ public enum PaperSize {
         this.multiplier = multiplier;
     }
 
-    public double getMultiplier() {
-        return multiplier;
-    }
+    public double getMultiplier() { return multiplier; }
 }
